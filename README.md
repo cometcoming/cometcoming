@@ -2,9 +2,6 @@
 
 My arrival will happen in 2061 😊 
 
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cometcoming&show_icons=true&theme=radical)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cometcoming&layout=compact&theme=dark)
 
