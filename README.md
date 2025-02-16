@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+My arrival will happen in 2061 😊 
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+## Language Distribution
+![Language Stats](https://github-profile-languages.herokuapp.com/languages?username=your-username&theme=radical&layout=pie)
+
 <!--
 **cometcoming/cometcoming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
